@@ -447,3 +447,300 @@ REQUEST_URI=/face/
 in D:\wamp\www\face\protected\views\site\index.php (10)
 in D:\wamp\www\face\protected\controllers\SiteController.php (41)
 in D:\wamp\www\face\index.php (13)
+2013/04/26 16:41:02 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:10)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (10)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 16:48:00 [error] [exception.FacebookApiException] CurlException: 28: SSL connection timeout
+REQUEST_URI=/face/
+HTTP_REFERER=http://localhost/
+---
+2013/04/26 16:48:08 [error] [exception.FacebookApiException] CurlException: 35: Unknown SSL protocol error in connection to graph.facebook.com:443 
+REQUEST_URI=/face/
+---
+2013/04/26 16:48:25 [error] [exception.FacebookApiException] CurlException: 7: couldn't connect to host
+REQUEST_URI=/face/
+---
+2013/04/26 16:48:45 [error] [exception.FacebookApiException] CurlException: 7: couldn't connect to host
+REQUEST_URI=/face/
+---
+2013/04/26 16:49:17 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:9)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (9)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 16:50:05 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:9)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (9)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 17:08:25 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:10)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (10)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 17:09:09 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:10)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (10)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 17:12:45 [error] [exception.FacebookApiException] CurlException: 28: Operation timed out after 60014 milliseconds with 5368 bytes received
+REQUEST_URI=/face/
+---
+2013/04/26 17:36:41 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:12)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (12)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 17:54:07 [error] [php] Attempt to assign property of non-object (D:\wamp\www\face\protected\views\site\index.php:20)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (20)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 17:54:52 [error] [php] Attempt to assign property of non-object (D:\wamp\www\face\protected\views\site\index.php:20)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (20)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 17:55:08 [error] [php] Attempt to assign property of non-object (D:\wamp\www\face\protected\views\site\index.php:20)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (20)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 18:42:10 [error] [exception.FacebookApiException] CurlException: 28: Operation timed out after 60013 milliseconds with 15128 bytes received
+REQUEST_URI=/face/
+---
+2013/04/26 18:48:56 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:45)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (45)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 18:49:59 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:45)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (45)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 18:51:53 [error] [exception.FacebookApiException] CurlException: 28: Operation timed out after 60014 milliseconds with 24010 out of 36772 bytes received
+REQUEST_URI=/face/
+---
+2013/04/26 18:52:59 [error] [exception.FacebookApiException] CurlException: 28: Operation timed out after 60014 milliseconds with 28082 out of 36772 bytes received
+REQUEST_URI=/face/
+---
+2013/04/26 18:55:44 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:41)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#3 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (41)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+in D:\wamp\www\face\index.php (13)
+2013/04/26 19:00:35 [error] [exception.FacebookApiException] OAuthException: Error validating access token: Session has expired at unix time 1367002800. The current unix time is 1367002849.
+REQUEST_URI=/face/
+---
+2013/04/26 19:14:16 [error] [php] Invalid argument supplied for foreach() (D:\wamp\www\face\protected\views\site\index.php:42)
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#1 D:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#2 D:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#3 D:\wamp\www\face\protected\controllers\SiteController.php(41): SiteController->render()
+#4 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#5 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 D:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#7 D:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#8 D:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#9 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#11 D:\wamp\www\face\index.php(13): CWebApplication->run()
+REQUEST_URI=/face/
+in D:\wamp\www\face\protected\views\site\index.php (42)
+in D:\wamp\www\face\protected\views\site\index.php (64)
+in D:\wamp\www\face\protected\controllers\SiteController.php (41)
+2013/04/26 19:33:09 [error] [exception.CException] exception 'CException' with message 'Property "LoginButton.href" is not defined.' in D:\wamp\www\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWidgetFactory.php(161): CComponent->__set('href', 'YOUR_URL')
+#1 D:\wamp\www\yii\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.yii-faceboo...', Array)
+#2 D:\wamp\www\yii\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.yii-faceboo...', Array)
+#3 D:\wamp\www\face\protected\views\site\index.php(52): CBaseController->widget('ext.yii-faceboo...', Array)
+#4 D:\wamp\www\yii\framework\web\CBaseController.php(126): require('D:\wamp\www\fac...')
+#5 D:\wamp\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('D:\wamp\www\fac...', Array, true)
+#6 D:\wamp\www\yii\framework\web\CController.php(869): CBaseController->renderFile('D:\wamp\www\fac...', Array, true)
+#7 D:\wamp\www\yii\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#8 D:\wamp\www\face\protected\controllers\SiteController.php(41): CController->render('index', Array)
+#9 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 D:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#14 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 D:\wamp\www\face\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/face/
+---
+2013/04/26 19:33:49 [error] [exception.CException] exception 'CException' with message 'Property "LoginButton.href" is not defined.' in D:\wamp\www\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 D:\wamp\www\yii\framework\web\CWidgetFactory.php(161): CComponent->__set('href', 'YOUR_URL')
+#1 D:\wamp\www\yii\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.yii-faceboo...', Array)
+#2 D:\wamp\www\yii\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.yii-faceboo...', Array)
+#3 D:\wamp\www\face\protected\views\site\index.php(52): CBaseController->widget('ext.yii-faceboo...', Array)
+#4 D:\wamp\www\yii\framework\web\CBaseController.php(126): require('D:\wamp\www\fac...')
+#5 D:\wamp\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('D:\wamp\www\fac...', Array, true)
+#6 D:\wamp\www\yii\framework\web\CController.php(869): CBaseController->renderFile('D:\wamp\www\fac...', Array, true)
+#7 D:\wamp\www\yii\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#8 D:\wamp\www\face\protected\controllers\SiteController.php(41): CController->render('index', Array)
+#9 D:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 D:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 D:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 D:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#14 D:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 D:\wamp\www\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 D:\wamp\www\face\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/face/
+---
+2013/04/26 19:52:59 [error] [exception.FacebookApiException] CurlException: 28: Operation timed out after 60014 milliseconds with 6344 bytes received
+REQUEST_URI=/face/
+---

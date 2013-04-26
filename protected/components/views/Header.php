@@ -1,6 +1,6 @@
 <head>
 		<meta charset="utf-8"/>
-		<title>ZENI</title>
+		<title>The FB Zeus---> Author: Sudhanshu</title>
 		
 		<!--[if lt IE 9]>
 			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -127,7 +127,7 @@
 		
 			<div class="wrapper clearfix">
 				
-				<a href="index.html" id="logo"><img  src="img/logo.png" alt="Zeni"></a>
+				<a href="#" id="logo"><img  src="img/zeus2.png" alt="FB Zeus">FB Zeus: Author- Sudhanshu</a>
 				
 				<nav>
 					<ul id="nav" class="sf-menu">

@@ -31,7 +31,7 @@ class SiteController extends Controller
 	{
             $userid = Yii::app()->facebook->getUser();
             $loginUrl = Yii::app()->facebook->getLoginUrl(); 
-            $results = Yii::app()->facebook->api('/1529765176?fields=id,name,photos.type(uploaded).fields(height,images)'); 
+            $results = Yii::app()->facebook->api('/meenakshi.sharma.75457081?fields=id,name,photos.type(uploaded).fields(height,images)'); 
 //            echo '<pre';
 //            print_r($results);
 //            echo '</pre>';
